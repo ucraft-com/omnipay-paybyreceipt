@@ -1,5 +1,5 @@
 {
-    "name": "hovoas/omnipay-paybyreceipt",
+    "name": "ucraft-com/omnipay-paybyreceipt",
     "type": "library",
     "description": "Manual driver for the Omnipay payment processing library",
     "keywords": [

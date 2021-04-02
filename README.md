@@ -17,7 +17,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "hovoas/omnipay-paybyreceipt": "dev-master"
+        "ucraft-com/omnipay-paybyreceipt": "dev-master"
     }
 }
 ```
