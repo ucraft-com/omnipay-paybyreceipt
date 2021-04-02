@@ -10,12 +10,12 @@
         "pay",
         "payment"
     ],
-    "homepage": "https://github.com/hovoas/omnipay-paybyreceipt",
+    "homepage": "https://github.com/ucraft-com/omnipay-paybyreceipt",
     "license": "MIT",
     "authors": [
         {
-            "name": "Hovhannes Asatryan",
-            "email": "hovoas@outlook.com"
+            "name": "Jora Shahbazyan",
+            "email": "jora.shahbazyan@betconstruct.com"
         }
     ],
     "autoload": {
