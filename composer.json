@@ -1,0 +1,35 @@
+{
+    "name": "hovoas/omnipay-paybyreceipt",
+    "type": "library",
+    "description": "Manual driver for the Omnipay payment processing library",
+    "keywords": [
+        "gateway",
+        "manual",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment"
+    ],
+    "homepage": "https://github.com/hovoas/omnipay-paybyreceipt",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hovhannes Asatryan",
+            "email": "hovoas@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Omnipay\\Receipt\\" : "src/" }
+    },
+    "require": {
+        "omnipay/common": "^2.0||^3.0"
+    },
+    "require-dev": {
+        "omnipay/tests": "^2.0||^3.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.0.x-dev"
+        }
+    }
+}
