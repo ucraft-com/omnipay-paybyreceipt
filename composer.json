@@ -1,7 +1,9 @@
 {
     "name": "ucraft-com/omnipay-paybyreceipt",
-    "type": "library",
     "description": "Manual driver for the Omnipay payment processing library",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/ucraft-com/omnipay-paybyreceipt",
     "keywords": [
         "gateway",
         "manual",
@@ -10,8 +12,6 @@
         "pay",
         "payment"
     ],
-    "homepage": "https://github.com/ucraft-com/omnipay-paybyreceipt",
-    "license": "MIT",
     "authors": [
         {
             "name": "Jora Shahbazyan",
